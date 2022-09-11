@@ -1,0 +1,4 @@
+The index.html file represents a simple web page created using react basics.
+The web page allows users to select number of dice. ( The dice have 6 faces)
+
+Then after, there is a "roll" option which when clicked will display the faces appeared on each dice ( depends on how many dice you have selected) and it will also display the sum of numbers appeared on each dice.
